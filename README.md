@@ -8,7 +8,7 @@
 | [/CodemaoTool(s)](https://github.com/BananaCakeComputer/CodemaoTool) | Codemao小工具 | Mar/21 |
 | [/Nemo-pc](https://github.com/BananaCakeComputer/Nemo-pc) | 从Nemo安装包提取编辑器部分并修改使其能直接运行于浏览器 | May/21 |
 | [/Web-for-King-Of-Binary](https://github.com/BananaCakeComputer/Web-for-King-Of-Binary) | 二进制帝小剧场 | Jul/21 |
-| [/Box3GUI](https://github.com/BananaCakeComputer/BananaCakeComputer/Box3GUI) | 使Box3显示二维图形界面 | Nov/22 |
+| [/Box3GUI](https://github.com/BananaCakeComputer/Box3GUI) | 使Box3显示二维图形界面 | Nov/22 |
 | [/Second-Round-of-Simplified-Chinese-Characters](https://github.com/BananaCakeComputer/Second-Round-of-Simplified-Chinese-Characters) | 第一次汉字简化字转换为第二次汉字简化字 | Mar/23 |
 
 ## Forked仓库
