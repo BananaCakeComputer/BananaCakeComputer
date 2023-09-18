@@ -1,5 +1,11 @@
 # 蕉饼
 
+## 停运网站恢复
+
+| 仓库 | 介绍 | 时间(Mmm/yy) |
+| --- | --- | --- |
+| [/PyongyangRacer](https://github.com/BananaCakeComputer/PyongyangRacer) | Pyongyang Racer游戏页恢复 | Sept/23 | 
+
 ## 个人项目导航
 
 | 仓库 | 介绍 | 时间(Mmm/yy) |
