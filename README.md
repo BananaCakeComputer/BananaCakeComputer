@@ -22,4 +22,4 @@
 | 仓库 | 介绍 | 时间(Mmm/yy) |
 | --- | --- | --- |
 | [/ScratchAddons-CN](https://github.com/BananaCakeComputer/ScratchAddons-CN) | Scratch Addons汉化，并不只局限于修改语言文件 | Jun/21 |
-| [/SCR-SGPlus-macOS](https://github.com/BananaCakeComputer/SCR-SGPlus-macOS) | Stepford County Railway SG+ for Mac | Jan/23 |
+| [/SCR-SGPlus-macOS](https://github.com/BananaCakeComputer/SCR-SGPlus-macOS) | 特别为macOS适配的Stepford County Railway SG+ | Jan/23 |
