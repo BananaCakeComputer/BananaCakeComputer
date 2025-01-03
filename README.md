@@ -17,6 +17,7 @@
 | [/Second-Round-of-Simplified-Chinese-Characters](https://github.com/BananaCakeComputer/Second-Round-of-Simplified-Chinese-Characters) | 第一次汉字简化字转换为第二次汉字简化字 | Mar/23 |
 | [/YoutubeCN](https://github.com/BananaCakeComputer/YoutubeCN) | 带有“中国”位置选项的Youtube | Nov/23 |
 | [/SCR-Status](https://github.com/BananaCakeComputer/SCR-Status) | Stepford County Railway 状态 | Mar/24 |
+| [/github-contribution](https://github.com/BananaCakeComputer/github-contribution) | GitHub账户贡献图显示工具 | Dec/24 |
 
 ## Forked仓库
 
